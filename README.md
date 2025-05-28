@@ -8,7 +8,7 @@
 
 - 🎓 Formação em Design Gráfico, combinando criatividade com análise estratégica.
 - 📊 Estudando Análise de Dados, BI, Excel, Sheets, Tableau, Power BI, SQL, Python, entre outras ferramentas...
-- 🌎 Atualmente desenvolvendo projetos voltados à região da Baixada Santista e Regiões de São Paulo.
+- 🌎 Atualmente desenvolvendo projetos voltados à região da Baixada Santista, entre outras regiões.
 
 ---
 
