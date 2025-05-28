@@ -24,7 +24,8 @@
 ## 📫 Como me encontrar
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/andreribeiro-analytics/)
-- ✉️ mailto:andreribeiro.analytics@gmail.com
+- ✉️ [andre@email.com](mailto:andreribeiro.analytics@gmail.com)
+
 
 ---
 
