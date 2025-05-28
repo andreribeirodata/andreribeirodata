@@ -27,7 +27,6 @@
 [![Email](https://img.shields.io/badge/E--mail-andreribeiro.analytics@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreribeiro.analytics@gmail.com)
 
 
-
 ---
 
 ### ✨ “Dados não são só números, são respostas esperando para serem descobertas.”
