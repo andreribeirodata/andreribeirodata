@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o André
 
-<!--
-**andreribeirodata/andreribeirodata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estou em transição de carreira para Análise de Dados e Business Intelligence (BI), com foco em transformar dados em decisões estratégicas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Formação em Design Gráfico, combinando criatividade com análise estratégica.
+- 📊 Estudando Análise de Dados, BI, Excel, Sheets, Tableau, Power BI, SQL, Python, entre outras ferramentas...
+- 🌎 Atualmente desenvolvendo projetos voltados à região da Baixada Santista e Regiões de São Paulo.
+
+---
+
+## 💡 Principais habilidades:
+
+✔ SQL – Extração, transformação e manipulação de dados 
+✔ Google Sheets & Excel – Análises, dashboards e automação de processos 
+✔ Visualização de Dados – Apresentação de insights com Power BI, Tableau e Looker Studio 
+✔ Estatística e Análise de Negócios – Identificação de padrões e tomada de decisão orientada a dados 
+
+---
+
+## 📫 Como me encontrar
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/andreribeiro-analytics/)
+- ✉️ andreribeiro.analytics@email.com
+
+---
+
+### ✨ “Dados não são só números, são respostas esperando para serem descobertas.”
+
