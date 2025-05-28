@@ -24,7 +24,7 @@
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-André_Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreribeiro-analytics/)
-[![Email](https://img.shields.io/badge/E--mail-andreribeiro.analytics@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreribeiro.analytics@gmail.com)
+[![Email](https://img.shields.io/badge/E--mail-andreribeiro.analytics@gmail.com-28a745?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreribeiro.analytics@gmail.com)
 
 
 ---
