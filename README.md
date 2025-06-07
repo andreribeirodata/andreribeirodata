@@ -14,7 +14,6 @@
 
 ## 💡 Principais habilidades:
 
-💡 Principais habilidades:
 ✔ SQL – Extração, transformação e manipulação de dados; 
 ✔ Google Sheets & Excel – Análises, dashboards e automação de processos; 
 ✔ Python – automação, análise de dados e manipulação com bibliotecas;
