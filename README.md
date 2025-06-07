@@ -14,10 +14,12 @@
 
 ## 💡 Principais habilidades:
 
-- SQL – Extração, transformação e manipulação de dados;
-- Google Sheets & Excel – Análises, dashboards e automação de processos; 
-- Visualização de Dados – Apresentação de insights com Power BI, Tableau e Looker Studio; 
-- Estatística e Análise de Negócios – Identificação de padrões e tomada de decisão orientada a dados. 
+💡 Principais habilidades:
+✔ SQL – Extração, transformação e manipulação de dados; 
+✔ Google Sheets & Excel – Análises, dashboards e automação de processos; 
+✔ Python – automação, análise de dados e manipulação com bibliotecas;
+✔ Visualização de Dados – Apresentação de insights com Power BI, Tableau e Looker Studio; 
+✔ Estatística e Análise de Negócios – Identificação de padrões e tomada de decisão orientada a dados.  
 
 ---
 
