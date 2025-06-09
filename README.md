@@ -1,34 +1,36 @@
 # 👋 Olá! Eu sou o André
 
-🎯 Estou em transição de carreira para Análise de Dados e Business Intelligence (BI), com foco em transformar dados em decisões estratégicas.
+🎯 Estou em transição de carreira para **Análise de Dados e Business Intelligence (BI)**, com foco em transformar dados em decisões estratégicas.
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Formação em Design Gráfico, combinando criatividade com análise estratégica.
-- 📊 Análise de Dados, BI, Excel, Sheets, Tableau, Power BI, SQL, Python, entre outras ferramentas...
-- 🌎 Atualmente desenvolvendo projetos voltados à região da Baixada Santista, entre outras regiões.
-
----
-
-## 💡 Principais habilidades:
-
-✔ SQL – Extração, transformação e manipulação de dados; 
-✔ Google Sheets & Excel – Análises, dashboards e automação de processos; 
-✔ Python – automação, análise de dados e manipulação com bibliotecas;
-✔ Visualização de Dados – Apresentação de insights com Power BI, Tableau e Looker Studio; 
-✔ Estatística e Análise de Negócios – Identificação de padrões e tomada de decisão orientada a dados.  
+## 🚀 Sobre mim  
+🎓 Formação em Design Gráfico, combinando criatividade com análise estratégica.  
+📊 Atuo com Análise de Dados, BI, Excel, Sheets, Tableau, Power BI, SQL, Python, entre outras ferramentas.  
+🌎 Atualmente desenvolvendo projetos voltados à região da Baixada Santista e outros contextos de negócio.
 
 ---
 
-## 📫 Como me encontrar
+## 💼 Portfólio de Projetos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-André_Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreribeiro-analytics/)
-[![Email](https://img.shields.io/badge/E--mail-andreribeiro.analytics@gmail.com-28a745?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreribeiro.analytics@gmail.com)
-
+> 📂 **Acesse meus projetos principais de Análise de Dados:**  
+> 🔗 [github.com/andreribeirodata/analise-vendas-globais](https://github.com/andreribeirodata/analise-vendas-globais)
 
 ---
 
-### ✨ “Dados não são só números, são respostas esperando para serem descobertas.”
+## 💡 Principais Habilidades
 
+✔ **SQL** – Extração, transformação e manipulação de dados  
+✔ **Google Sheets & Excel** – Análises, dashboards e automação de processos  
+✔ **Python (iniciante)** – Automatização e manipulação com bibliotecas como Pandas  
+✔ **Power BI, Tableau, Looker Studio** – Visualização de dados e storytelling  
+✔ **Estatística e Análise de Negócios** – Identificação de padrões e apoio à decisão
+
+---
+
+## 📫 Como me encontrar  
+[LinkedIn](https://www.linkedin.com/in/andreribeiro-analytics/) | [Email](mailto:andreribeiro.analytics@gmail.com)
+
+---
+
+✨ _“Dados não são só números, são respostas esperando para serem descobertas.”_
