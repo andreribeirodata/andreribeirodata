@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o André Ribeiro Analista de Dados e BI
+# 👋 Olá! Eu sou o André Ribeiro - Analista de Dados e BI
 
 🎯 Estou em transição de carreira para **Análise de Dados e Business Intelligence (BI)**, com foco em transformar dados em decisões estratégicas.
 
