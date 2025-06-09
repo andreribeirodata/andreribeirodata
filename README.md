@@ -11,9 +11,23 @@
 
 ---
 
-## 💼 Portfólio de Projetos
+## 📌 Principais Projetos
 
-[![Ver Portfólio](https://raw.githubusercontent.com/andreribeirodata/analise-vendas-globais/main/screenshots/dashboard-geral-sem-filtro.png)](https://github.com/andreribeirodata/analise-vendas-globais)
+<div align="center">
+
+<table>
+  <tr>
+    <td style="background-color: #d3d3d3; padding: 10px; border-radius: 8px;">
+      <h3>📈 <a href="https://github.com/andreribeirodata/analise-vendas-globais">analise-vendas-globais</a></h3>
+      <p>Projeto de análise exploratória de vendas globais utilizando Excel, Power Query, Power BI. Inclui insights visuais para identificar padrões regionais e por plataforma.</p>
+      
+  📗 Excel |⚡ Power Query | 📊 Power BI
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
