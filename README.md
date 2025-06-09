@@ -13,8 +13,7 @@
 
 ## 💼 Portfólio de Projetos
 
-> 📂 **Acesse meus projetos principais de Análise de Dados:**  
-> 🔗 [github.com/andreribeirodata/analise-vendas-globais](https://github.com/andreribeirodata/analise-vendas-globais)
+[![Ver Portfólio](https://raw.githubusercontent.com/andreribeirodata/analise-vendas-globais/main/screenshots/dashboard-geral-sem-filtro.png)](https://github.com/andreribeirodata/analise-vendas-globais)
 
 ---
 
